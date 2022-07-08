@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #A72693;
+}
+
+.theme {
+    color: black;
+}
+
+
+/* .navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #A72693;
+}
+
+.purple {
+    color: #A72693;
+} */
